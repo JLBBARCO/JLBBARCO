@@ -13,7 +13,7 @@
 
 ###
 
-<div style="border: 2px solid #ffffff;border-radius: 5px; justify-content: space-around; display: flex;">
+<div style="border: 2px solid #ffffff;border-radius: 5px; justify-content: space-around; display: flex; float: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -25,7 +25,7 @@
 
 ###
 
-<div style="border: 2px solid #ffffff;border-radius: 5px; justify-content: space-around; display: flex;">
+<div style="border: 2px solid #ffffff;border-radius: 5px; justify-content: space-around; display: flex; float: left;">
   <a href="https://www.facebook.com/joseluiz.bruianibarco.92" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/>
   </a>
