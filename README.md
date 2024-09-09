@@ -1,33 +1,43 @@
-<h2>Hi 👋! My name is Jose Luiz and I'm a Developer FullStack</h2>
+<h2 align="left">Hi 👋! My name is Jose Luiz and I'm a Developer FullStack</h2>
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-#
+###
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="gatinho batendo no laptop" style="text-align: center; height: 200px; float: right; border-radius: 10%;">
-<div style="border-radius: 10px; background-color: #282A36; display: flex; justify-content: space-around;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"/>
+<img align="right" height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
 </div>
 
-#
+###
 
-<div style="border-radius: 10px; background-color: #282A36; display: flex; justify-content: space-around;">
-    <a href="https://www.facebook.com/joseluiz.bruianibarco.92" target="_blank" rel="noopener noreferrer">
-        <img src="data:image/webp;base64,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" alt="Logo do Facebook" height="40">
-    </a>
-    <a href="mailto:jbruianibarco@gmail.com">
-        <img src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Logo Gmail" height="40">
-    </a>
-    <a href="https://www.linkedin.com/in/josé-luiz-bruiani-barco-40a056270" target="_blank" rel="noopener noreferrer">
-        <img src="data:image/webp;base64,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" alt="Logo do Linkedin" height="40">
-    </a>
-    <a href="https://youtube.com/@jlbbarco" target="_blank" rel="noopener noreferrer">
-        <img src="data:image/webp;base64,UklGRlQFAABXRUJQVlA4WAoAAAAQAAAAPwAAPwAAQUxQSNABAAAdkCPbtmora58rz993d09xd8Jf9MAtcyJCeuAaOR1wQoeUzN0dnl4/+7vtCKKImAD8t0qgUUwASPMMSMVTyZp0RTZhm8pWZiwZ14ZWrBimMlTou652Itf18/li7m8+7+mJJWev70wkUfYiTJSgQBjbsuNxlTDicTubTWdS6fK3d1evBuO1HOjBjFaWamzvWld58AHzqHl7NEQu333nGAD07IbUht33bgHY6YlBev/x31ibheDFlTcTa1gSBq+n2iF61uOKKlltlInLSldWOrLQ3uMJq68JhdXURcLqktKS1RCesrWSlbAhPGZIs5U0g0kYySMIZ4gPTWFhYAkLxDn5rLByISOs9KuaZOV+V0P23zcttqjo1/dqUxT/+FKZEFXKfQtbROU+6hcDot4B5zaLugXctpYK+nYHcHYfSosJDwPAkyPHTSHBeWcULp852zNlTAzQVH09Qhj70ZbBHe2WqYlAkyEQplaXPzy4ggmGR8+hoaWhMZ1N28lY3DANwyAwgRhgArOOWAd+4DuOU/j16/e3XKQw8eD9x3c/vhQKHoWkDa0AkNJgANBMCtDM0LAUppd9z3cDnwKtWWtiEINAYIxWBmYmIwIzplLzDPnHClZQOCBeAwAAEBMAnQEqQABAAD4tCotFoZDQzfgYAsS2AGbAoK0PNj5n+GH7Y8eX3p5Viz/8d9kvaU7VXtW+Yz9eP8d7UHoA9AD9a+tV9ADyrv2H+Dn9wv239nW7+PxzFkqej5nugb6C9gr9Qf9V6mfUgfsqV7VjQzsNKfJP+jFHskXThOFSxBdPL1NK87Rq9idytopeVtEYXeTgn8hMQiwVFyejMbv7BgAA/v/b6V//25V7HaMzp56JRlz6rM1PyaMdMWrPdbB8a5iejHfmrn+1Y+FwfBdD4B/7bf3d//CzXaJ1iBqWf5i0rT9qiXISvAt/wL/I1/+uiuBLqb/FPADwtLkXZqIvoVMfuUnQ+xv9R/BrsJrcP52MC9QjaF1PTmqu/miBMJkgUy7OWwzMdjobrkZWXZWv0RMiGT8DsqgsAiV1/QiQdn533h3esPPV/LE/vT5xngCA07W6qFCu/XVQsBq2ZvWVxH0EtyiD+q7UEodDfV8ga77/2GBD+k9JsQV2LZUP1xrG2nkYaeWeOxkOmFaBpjkxXwVDQff7yt2K0xoZbLj447XiKrbCHqXJU++NpvrvCptpC6eeXpJPEcz3U8qE5yWl0Kr5oU7JtF3uMubi8h2K2s0qsQh0H9+Dqtyif4buxgpn8eqowItkJqvxp1bKoFWJtgIKbdrW7dcOtHyZPM4UHgdTc/UI+/sT580zx+eQhwznbi7Kuq2zRD8zLoNfFvLJ+b3NVt+MOpQiXycN+sJp/f/f5wm2vMyh2nvhO7hHugY+R7OL/C8+KsVb3WlgOQnTnyruFv1c5wQm4tod2IwApYybiNfymcAoEbbwmQZyqV12Pf54SUELewPFTgGnyI//q5ehOa3gbQfHpXPc/J9SvgDhU4+3KA98cnSdGvNLz//G+QW91i1NEZfFS3wf5KW4foKD+bSvUux8WH//AML9/Ex6UYVXh6Y9mqAV2Uf//LRDeIheFj4QZzY3qmh/eiPbT3QddV7K2f4IBVf+TTl3COvgxp26rJRSZhUxxZWOSZC5GTygCQ8+FJutULKyxfvjw3GSaqljo799e/74G9zXv/gshzzWEsytWnBlTVW/gGRQuYn9xeB3oQjyHykw0DctI9FpHf8KQjTJWNeoa1bG+s8JZx0hRYCkZbUqDtAAAA==" alt="Logo do YouTube" height="40">
-    </a>
+<div align="center">
+  <a href="https://www.facebook.com/joseluiz.bruianibarco.92" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/>
+  </a>
+  <a href="mailto:jbruianibarco@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/josé-luiz-bruiani-barco-40a056270" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="https://youtube.com/@jlbbarco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
+  </a>
 </div>
+
+###
