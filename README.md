@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat in Laptop" style="height: 200; float: right;">
+
 <h2 style="text-align:center;">Technologies that I use in my daily life</h2>
 
 <div style="text-align: center;">
@@ -13,8 +15,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo HTML5">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo JavaScript">
 </div><br>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat in Laptop" style="height: 200; float: right;">
 
 <h2 style="text-align:center;">Contact</h2>
 
