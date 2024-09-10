@@ -1,7 +1,7 @@
 # Hi 👋! My name is Jose Luiz and I'm a Developer FullStack
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
 ## Technologies that I use in my daily life
 
