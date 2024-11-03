@@ -16,7 +16,3 @@
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:jbruianibarco@gmail.com)
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/joseluizbbarco)
 [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtube.com/@JoseLuizBBarco)
-
-### Projects
-
-[My Main Projects - GitHub](https://github.com/JLBBARCO/My-Main-Projects.git)
