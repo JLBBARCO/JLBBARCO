@@ -31,15 +31,15 @@
 
 <div align="left">
   <a href="https://www.facebook.com/joseluizbrubarco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="img/facebook.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="mailto:jbruianibarco@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="img/gmail.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joseluizbbarco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="img/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://youtube.com/@JoseLuizBBarco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="img/youtube.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
