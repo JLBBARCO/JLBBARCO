@@ -21,16 +21,16 @@ About Me
 
 <div align="left">
   <a href="https://www.facebook.com/joseluizbrubarco" target="_blank">
-    <img src="img/facebook.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="assets/icon/facebook.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="mailto:jbruianibarco@gmail.com" target="_blank">
-    <img src="img/gmail.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="assets/icon/gmail.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joseluizbbarco" target="_blank">
-    <img src="img/LinkedIn.svg" width="52" height="40" alt="LinkedIn logo"  />
+    <img src="assets/icon/linkedin.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
   <a href="https://youtube.com/@JoseLuizBBarco" target="_blank">
-    <img src="img/YouTube.svg" width="52" height="40" alt="YouTube logo"  />
+    <img src="assets/icon/youtube.svg" width="52" height="40" alt="YouTube logo"  />
   </a>
 </div>
 
