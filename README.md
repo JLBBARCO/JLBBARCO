@@ -1,17 +1,11 @@
-<h2 align="left">Hi 👋! My name is Jose Luiz Bruiani Barco and I'm a Fullstack Developer</h2>
-
-###
+# Hi 👋! My name is Jose Luiz Bruiani Barco and I'm a Fullstack Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left">Technologies that I use in my daily life</p>
-
-###
+Technologies that I use in my daily life
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -23,11 +17,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
-
-<p align="left">About Me</p>
-
-###
+About Me
 
 <div align="left">
   <a href="https://www.facebook.com/joseluizbrubarco" target="_blank">
@@ -37,9 +27,13 @@
     <img src="img/gmail.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joseluizbbarco" target="_blank">
-    <img src="img/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="img/LinkedIn.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
   <a href="https://youtube.com/@JoseLuizBBarco" target="_blank">
-    <img src="img/youtube.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="img/YouTube.svg" width="52" height="40" alt="YouTube logo"  />
   </a>
 </div>
+
+More Links
+
+- [Portfolio](https://jlbbarco.github.io)
