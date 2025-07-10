@@ -7,39 +7,19 @@
 
 Technologies that I use in my daily life
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
+![Arduino](assets/icon/arduino.svg)
+![HTML5](assets/icon/html5.svg)
+![CSS3](assets/icon/css3.svg)
+![Markdown](assets/icon/markdown.svg)
+![JavaScript](assets/icon/javascript.svg)
+![Git](assets/icon/git.svg)
+![GitHub](assets/icon/github.svg)
+![Python](assets/icon/python.svg)
+![PHP](assets/icon/php.svg)
 
 About Me
 
-<div align="left">
-  <a href="https://www.facebook.com/joseluizbrubarco" target="_blank">
-    <img src="assets/icon/facebook.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="mailto:jbruianibarco@gmail.com" target="_blank">
-    <img src="assets/icon/gmail.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joseluizbbarco" target="_blank">
-    <img src="assets/icon/linkedin.svg" width="52" height="40" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://youtube.com/@JoseLuizBBarco" target="_blank">
-    <img src="assets/icon/youtube.svg" width="52" height="40" alt="YouTube logo"  />
-  </a>
-</div>
+[![Facebook](assets/icon/facebook.svg)](https://www.facebook.com/joseluizbrubarco)
+[![Gmail](assets/icon/gmail.svg)](mailto:jbruianibarco@gmail.com)
+[![LinkedIn](assets/icon/linkedin.svg)](https://www.linkedin.com/in/joseluizbbarco)
+[![YouTube](assets/icon/youtube.svg)](https://youtube.com/@JoseLuizBBarco)
