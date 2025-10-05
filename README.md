@@ -23,3 +23,7 @@ About Me
 [![Gmail](assets/icon/gmail.svg)](mailto:jbruianibarco@gmail.com)
 [![LinkedIn](assets/icon/linkedin.svg)](https://www.linkedin.com/in/joseluizbbarco)
 [![YouTube](assets/icon/youtube.svg)](https://youtube.com/@JoseLuizBBarco)
+
+![GitHub Snake animation](https://raw.githubusercontent.com/JLBBARCO/JLBBARCO/output/snake.svg)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uephaajbuh6dia89glh5y6iev)
