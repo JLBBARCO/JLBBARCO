@@ -29,6 +29,9 @@ About Me
 [![YouTube](assets/icon/youtube.svg)](https://youtube.com/@JoseLuizBBarco)
 
 ![GitHub Snake animation](https://raw.githubusercontent.com/JLBBARCO/JLBBARCO/output/snake.svg)
+
+![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uephaajbuh6dia89glh5y6iev)
 
 ![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt)
