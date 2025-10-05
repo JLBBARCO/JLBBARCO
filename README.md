@@ -32,3 +32,9 @@
 ### Played on Spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uephaajbuh6dia89glh5y6iev)
+
+## Accounts
+
+This is my first account.
+
+My second account is @JoseLuizBBarco and I use this account for upload of the files of the studies on the Adolpho College.
