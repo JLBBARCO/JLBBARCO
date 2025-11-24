@@ -4,18 +4,26 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 ![GitHub Snake animation](https://raw.githubusercontent.com/JLBBARCO/JLBBARCO/output/snake.svg)
 
-## Technologies that I use in my daily life
+## Techs
 
-![Arduino](assets/icon/arduino.svg)
-![HTML5](assets/icon/html5.svg)
-![CSS3](assets/icon/css3.svg)
-![Markdown](assets/icon/markdown.svg)
-![JavaScript](assets/icon/javascript.svg)
-![Git](assets/icon/git.svg)
-![GitHub](assets/icon/github.svg)
-![Python](assets/icon/python.svg)
-![PHP](assets/icon/php.svg)
+![HTML5 Logo](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3 Logo](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Markdown Logo](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Python Logo](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![MySQL Logo](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![GitHub Logo](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Git Logo](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Adobe Logo](https://img.shields.io/badge/adobe_photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)
+![VS Code Logo](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Windows Logo](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Linux Logo](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+###
 
 ## About Me
 
 ### [Contact-me](https://contact-jlbbarco.vercel.app)
+
+### [Portfolio](https://portfolio-jlbbarco.vercel.app)
