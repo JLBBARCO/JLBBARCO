@@ -1,38 +1,37 @@
 # Hi 👋! My name is Jose Luiz Bruiani Barco and I'm a Fullstack Developer
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
-![GitHub Snake animation](https://raw.githubusercontent.com/JLBBARCO/JLBBARCO/output/snake.svg)
+|            Stats Graph             |            Languages Graph             |
+| :--------------------------------: | :------------------------------------: |
+| ![Stats Graph](./assets/stats.svg) | ![Languages Graph](./assets/langs.svg) |
+
+![GitHub Snake animation](./assets/snake.svg)
 
 ## Techs
 
-![HTML5 Logo](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3 Logo](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)
-![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Markdown Logo](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![Python Logo](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Arduino Logo](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-![MySQL Logo](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![GitHub Logo](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Git Logo](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Adobe Logo](https://img.shields.io/badge/adobe_photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)
-![VS Code Logo](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Windows Logo](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![Linux Logo](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+<!-- TECHS:START -->
 
-###
+![Batchfile](https://img.shields.io/badge/Batchfile-4B5563?logo=batchfile&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+
+<!-- TECHS:END -->
 
 ## About Me
 
+### [My Portfolio](https://portfolio-jlbbarco.vercel.app)
+
 ### Contact-me
 
-<div align="left">
-  <a href="mailto:jbruianibarco@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/joseluizbbarco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<!-- CONTACT:START -->
 
-### [My Portfolio](https://portfolio-jlbbarco.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:joseluizbarco@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JLBBARCO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/joseluizbbarco)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/joseluizbbarco)
+
+<!-- CONTACT:END -->

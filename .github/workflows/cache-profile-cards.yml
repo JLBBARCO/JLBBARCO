@@ -1,0 +1,75 @@
+name: Cache Profile Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cache-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh SVG assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+
+          download_with_fallback() {
+            primary_url="$1"
+            fallback_url="$2"
+            target_file="$3"
+            tmp_file="${target_file}.tmp"
+
+            if curl -fsSL --retry 3 --retry-delay 5 "$primary_url" -o "$tmp_file"; then
+              mv "$tmp_file" "$target_file"
+              echo "Updated: $target_file (primary)"
+              return 0
+            fi
+
+            if [ -n "$fallback_url" ] && curl -fsSL --retry 3 --retry-delay 5 "$fallback_url" -o "$tmp_file"; then
+              mv "$tmp_file" "$target_file"
+              echo "Updated: $target_file (fallback)"
+              return 0
+            fi
+
+            rm -f "$tmp_file"
+            echo "Kept existing file (download failed): $target_file"
+          }
+
+          download_with_fallback \
+            "https://github-readme-stats.vercel.app/api?username=JLBBARCO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" \
+            "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JLBBARCO&theme=dracula" \
+            "assets/stats.svg"
+
+          download_with_fallback \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=JLBBARCO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" \
+            "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JLBBARCO&theme=dracula" \
+            "assets/langs.svg"
+
+          download_with_fallback \
+            "https://raw.githubusercontent.com/JLBBARCO/JLBBARCO/output/snake.svg" \
+            "" \
+            "assets/snake.svg"
+
+      - name: Update README managed sections
+        run: python scripts/update_readme_sections.py
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg assets/snake.svg README.md
+          git diff --staged --quiet || git commit -m "chore: update cached profile cards"
+          git push
