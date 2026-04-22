@@ -1,1 +1,10 @@
 .vscode/
+.idea/
+*.iml
+*.log
+*.tmp
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc

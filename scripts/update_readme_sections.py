@@ -55,6 +55,13 @@ LANGUAGE_BADGE_META: Dict[str, Tuple[str, str]] = {
 }
 
 CONTACT_ICON_TO_SHIELD = {
+    "email": ("Gmail", "gmail", "EA4335"),
+    "github": ("GitHub", "github", "181717"),
+    "linkedin": ("LinkedIn", "linkedin", "0A66C2"),
+    "instagram": ("Instagram", "instagram", "E4405F"),
+    "youtube": ("YouTube", "youtube", "FF0000"),
+    "discord": ("Discord", "discord", "5865F2"),
+    "whatsapp": ("WhatsApp", "whatsapp", "25D366"),
     "fa-envelope": ("Gmail", "gmail", "EA4335"),
     "fa-github": ("GitHub", "github", "181717"),
     "fa-linkedin": ("LinkedIn", "linkedin", "0A66C2"),
@@ -168,10 +175,24 @@ def read_contact_cards() -> List[dict]:
 
 
 def icon_meta_from_card(card: dict) -> Tuple[str, str, str]:
+    """Extract icon metadata from a contact card.
+    
+    Tries multiple sources for icon information:
+    1. Direct 'iconName' field (preferred)
+    2. Legacy 'icon' field
+    3. Fallback to name-based detection
+    """
+    # Try iconName first (from portfolio JSON)
+    icon_name = card.get("iconName")
+    if isinstance(icon_name, str) and icon_name in CONTACT_ICON_TO_SHIELD:
+        return CONTACT_ICON_TO_SHIELD[icon_name]
+    
+    # Try legacy icon field
     icon = card.get("icon")
     if isinstance(icon, str) and icon in CONTACT_ICON_TO_SHIELD:
         return CONTACT_ICON_TO_SHIELD[icon]
 
+    # Fallback to name-based detection
     name = str(card.get("name", "Contact"))
     lowered = name.lower()
     if "linkedin" in lowered:

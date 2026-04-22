@@ -6,6 +6,8 @@
 
 ![GitHub Snake animation](./assets/snake.svg)
 
+![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random)
+
 ## Techs
 
 <!-- TECHS:START -->
@@ -21,11 +23,9 @@
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 <!-- TECHS:END -->
 
-## About Me
+![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random)
 
-### [My Portfolio](https://portfolio-jlbbarco.vercel.app)
-
-### Contact-me
+## Contact-me
 
 <!-- CONTACT:START -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jbruianibarco@gmail.com)
@@ -33,3 +33,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/joseluizbbarco)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/joseluizbbarco)
 <!-- CONTACT:END -->
+
+![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random)

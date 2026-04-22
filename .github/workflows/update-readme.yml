@@ -1,0 +1,48 @@
+name: Update README Sections
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch: {}
+    push:
+        branches:
+            - main
+        paths:
+            - "scripts/update_readme_sections.py"
+
+permissions:
+    contents: write
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.11"
+
+            - name: Update README sections
+              run: python scripts/update_readme_sections.py
+
+            - name: Check if there are changes
+              id: changes
+              run: |
+                  if git diff --quiet; then
+                    echo "has_changes=false" >> $GITHUB_OUTPUT
+                  else
+                    echo "has_changes=true" >> $GITHUB_OUTPUT
+                  fi
+
+            - name: Commit and push changes
+              if: steps.changes.outputs.has_changes == 'true'
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add README.md
+                  git commit -m "chore: update README sections (techs & contact)"
+                  git push
