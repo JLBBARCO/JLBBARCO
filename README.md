@@ -11,11 +11,10 @@
 ## Techs
 
 <!-- TECHS:START -->
-
 ![Batchfile](https://img.shields.io/badge/Batchfile-4B5563?logo=batchfile&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![Inno Setup](https://img.shields.io/badge/Inno%20Setup-4B5563?logo=innosetup&logoColor=white&style=for-the-badge)
+![Inno Setup](https://img.shields.io/badge/Inno%20Setup-4B5563?logo=inno setup&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-4B5563?logo=powershell&logoColor=white&style=for-the-badge)
@@ -23,7 +22,6 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-
 <!-- TECHS:END -->
 
 ![Border](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random)
@@ -31,10 +29,8 @@
 ## Contact-me
 
 <!-- CONTACT:START -->
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jbruianibarco@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JLBBARCO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/joseluizbbarco)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/joseluizbbarco)
-
 <!-- CONTACT:END -->
