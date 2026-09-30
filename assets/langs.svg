@@ -1,3 +1,222 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200"><style>* {
-          font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
-        }</style><g class="gpsc-root"><rect x="1" y="1" rx="5" ry="5" height="99%" width="99.41176470588235%" stroke="#282a36" stroke-width="1" fill="#282a36" stroke-opacity="1"></rect><text x="30" y="40" class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; fill: #ff79c6;">Top Languages by Repo</text><g transform="translate(0,40)"><g transform="translate(40,0)"><rect y="18" width="14" height="14" class="gpsc-item" style="--gpsc-i: 0; stroke-width: 1px;" fill="#3572A5" stroke="#282a36"></rect><rect y="43.2" width="14" height="14" class="gpsc-item" style="--gpsc-i: 1; stroke-width: 1px;" fill="#e34c26" stroke="#282a36"></rect><rect y="68.4" width="14" height="14" class="gpsc-item" style="--gpsc-i: 2; stroke-width: 1px;" fill="#663399" stroke="#282a36"></rect><rect y="93.60000000000002" width="14" height="14" class="gpsc-item" style="--gpsc-i: 3; stroke-width: 1px;" fill="#3178c6" stroke="#282a36"></rect><rect y="118.80000000000001" width="14" height="14" class="gpsc-item" style="--gpsc-i: 4; stroke-width: 1px;" fill="#f1e05a" stroke="#282a36"></rect><text x="16.8" y="30" class="gpsc-item" style="--gpsc-i: 0; fill: #ffb86c; font-size: 14px;">Python</text><text x="16.8" y="55.2" class="gpsc-item" style="--gpsc-i: 1; fill: #ffb86c; font-size: 14px;">HTML</text><text x="16.8" y="80.4" class="gpsc-item" style="--gpsc-i: 2; fill: #ffb86c; font-size: 14px;">CSS</text><text x="16.8" y="105.60000000000002" class="gpsc-item" style="--gpsc-i: 3; fill: #ffb86c; font-size: 14px;">TypeScript</text><text x="16.8" y="130.8" class="gpsc-item" style="--gpsc-i: 4; fill: #ffb86c; font-size: 14px;">JavaScript</text></g><g transform="translate( 230, 80 )"><g class="arc" style="--gpsc-i: 0;"><path d="M3.67394039744206e-15,-60A60,60,0,0,1,26.03302434705349,54.05813207414515L15.185930869114536,31.53391037658467A35,35,0,0,0,2.1431318985078682e-15,-35Z" style="fill: #3572A5; stroke-width: 2px;" stroke="#282a36"></path></g><g class="arc" style="--gpsc-i: 1;"><path d="M26.03302434705349,54.05813207414515A60,60,0,0,1,-46.90988894808178,37.40938811152402L-27.36410188638104,21.822143065055677A35,35,0,0,0,15.185930869114536,31.53391037658467Z" style="fill: #e34c26; stroke-width: 2px;" stroke="#282a36"></path></g><g class="arc" style="--gpsc-i: 2;"><path d="M-46.90988894808178,37.40938811152402A60,60,0,0,1,-58.495674730909414,-13.351256037378857L-34.122476926363824,-7.788232688471A35,35,0,0,0,-27.36410188638104,21.822143065055677Z" style="fill: #663399; stroke-width: 2px;" stroke="#282a36"></path></g><g class="arc" style="--gpsc-i: 3;"><path d="M-58.495674730909414,-13.351256037378857A60,60,0,0,1,-26.033024347053498,-54.05813207414514L-15.18593086911454,-31.533910376584664A35,35,0,0,0,-34.122476926363824,-7.788232688471Z" style="fill: #3178c6; stroke-width: 2px;" stroke="#282a36"></path></g><g class="arc" style="--gpsc-i: 4;"><path d="M-26.033024347053498,-54.05813207414514A60,60,0,0,1,-1.1021821192326178e-14,-60L-6.429395695523604e-15,-35A35,35,0,0,0,-15.18593086911454,-31.533910376584664Z" style="fill: #f1e05a; stroke-width: 2px;" stroke="#282a36"></path></g></g></g></g></svg>
+
+      <svg
+        width="320"
+        height="165"
+        viewBox="0 0 320 165"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #ff6e96;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #f8f8f2;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #f8f8f2;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="319"
+          fill="#282a36"
+          stroke-opacity="1"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg data-testid="lang-items" x="25">
+      
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="270" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="104.72"
+          height="8"
+          fill="#3178c6"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="104.72"
+          y="0"
+          width="58.98"
+          height="8"
+          fill="#e34c26"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="163.7"
+          y="0"
+          width="45.89"
+          height="8"
+          fill="#f1e05a"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="209.58999999999997"
+          y="0"
+          width="42.33"
+          height="8"
+          fill="#3572A5"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="251.91999999999996"
+          y="0"
+          width="18.08"
+          height="8"
+          fill="#663399"
+        />
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript 38.78%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 21.85%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript 17.00%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python 15.68%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSS 6.70%
+      </text>
+    </g>
+  </g></g>
+    </g>
+  
+    </svg>
+  
+        </g>
+      </svg>
+    
